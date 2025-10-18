@@ -1,0 +1,9 @@
+{
+	"name": "AzureDataFactoryRealTimeProject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9b08edfb-44ab-4532-96b0-069eed4c4d5e",
+		"tenantId": "724af088-651c-4ba7-a471-78768647ce82"
+	}
+}
